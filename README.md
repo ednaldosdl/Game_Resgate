@@ -1,7 +1,7 @@
 <h1 align="center">GAME RESGATE  :helicopter:</h5>
 
 <p align="center">
-  <a href="https://lucasrmagalhaes.github.io/resgate-js/" target="_blank">
+  <a href="https://github.com/ednaldosdl/Game_Resgate" target="_blank">
     <img src="/img/capa.jpg" alt="Portfolio"/>
   </a>
 
