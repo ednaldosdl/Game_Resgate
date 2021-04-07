@@ -12,10 +12,10 @@
   O controle das tarefas desse projeto será realizado no GitHub.
 
 ##  Ícones
-  &#x1F4E6 Nova funcionalidade
-  &#x1F504 Atualização
-  &#x1F41B Correção de bug
-  &#x1F3C1 Lançamento
+  📦 Nova funcionalidade
+  🔄 Atualização
+  🐛 Correção de bug
+  🏁 Lançamento
 
   <br/>
   Desenvolvido em HTML, CSS e JS com os frameworks JQuery e JQuery Collision.
