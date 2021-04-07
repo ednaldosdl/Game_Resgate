@@ -6,7 +6,7 @@
   </a>
 
 #   GAME RESGATE
-  Exemplo de Portfólio para Desenvolvedor.
+  Construindo meu primeiro jogo de naves.
 
 ##  Tarefas
   O controle das tarefas desse projeto será realizado no GitHub.
