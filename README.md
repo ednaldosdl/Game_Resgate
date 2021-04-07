@@ -12,10 +12,10 @@
   O controle das tarefas desse projeto será realizado no GitHub.
 
 ##  Ícones
-  :package: Nova funcionalidade
-  :counterclockwise_arrows_button: Atualização
-  :bug: Correção de bug
-  :chequered_flag: Lançamento
+  &#x1F4E6 Nova funcionalidade
+  &#x1F504 Atualização
+  &#x1F41B Correção de bug
+  &#x1F3C1 Lançamento
 
   <br/>
   Desenvolvido em HTML, CSS e JS com os frameworks JQuery e JQuery Collision.
