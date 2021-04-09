@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ednaldosdl/Game_Resgate" target="_blank">
-    <img src="/img/capa.jpg" alt="Portfolio"/>
+    <img src="/imgs/capa.jpg" alt="Portfolio"/>
   </a>
 
 #   GAME RESGATE
